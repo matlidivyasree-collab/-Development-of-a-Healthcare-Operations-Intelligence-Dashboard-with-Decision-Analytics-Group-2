@@ -12,7 +12,7 @@ The primary objective of this project is to apply decision analytics to healthca
 
 The project is structured logically to showcase the complete data lifecycle pipeline: 
 
-text
+'''text
 
 ├── data_raw/            # Original, unmodified datasets from Google Drive
 ├── data_cleaning/       # Python scripts / Jupyter Notebooks used for preprocessing
@@ -24,6 +24,7 @@ text
 ├── Dashboard 4/         # Source files and assets for Dashboard 4
 ├── Dashboard 5/         # Source files and assets for Dashboard 5
 └── LICENSE              # Project licensing terms (MIT License)
+'''
 
 Use code with caution.
 
