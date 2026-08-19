@@ -2,11 +2,16 @@
 
 ### 📌 Project Overview
 
-This repository contains the project **Healthcare Operations Intelligence Dashboard** designed as part of the **Infosys Springboard Internship**. 
+This repository contains the end-to-end development of a **Healthcare Operations Intelligence Dashboard** designed as part of the **Infosys Springboard Internship** program. 
 
 The primary objective of this project is to apply decision analytics to healthcare operational data. By transforming fragmented raw data into structured, interactive visual dashboards, this solution helps hospital administrators optimize resource allocation, track patient flow, monitor departmental efficiency, and improve overall operational decision-making. 
 
+### 👥 Team Members & Contributions
 
+* **[Your Name]** - Dashboard Development & Repository Management
+* **Attilipooja** - Data Collection, Cleaning, and Dataset Preparation
+* **Chandana A** - Exploratory Data Analysis (EDA) & Statistical Analysis
+* **Annapurna M...** - Dashboard Design & Performance Optimization
 
 ### 📂 Repository Structure
 
