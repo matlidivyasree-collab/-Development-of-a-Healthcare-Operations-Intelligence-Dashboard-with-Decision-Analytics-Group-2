@@ -11,7 +11,7 @@ The primary objective of this project is to apply decision analytics to healthca
 * **[Your Name]** - Dashboard Development & Repository Management
 * **Attilipooja** - Data Collection, Cleaning, and Dataset Preparation
 * **Chandana A** - Exploratory Data Analysis (EDA) & Statistical Analysis
-* **Annapurna M...** - Dashboard Design & Performance Optimization
+* **Annapurna M** - Dashboard Design & Performance Optimization
 
 ### 📂 Repository Structure
 
@@ -23,7 +23,7 @@ text
 ├── data_cleaning/       # Python scripts / Jupyter Notebooks used for preprocessing
 ├── data_cleaned/        # Final, cleaned datasets used to power the dashboards
 ├── eda/                 # Exploratory Data Analysis notebooks and visualizations
-├── Dashboard 1/         # Source files and assets for Dashboard 1
+├── dashboard 1/         # Source files and assets for Dashboard 1
 ├── Dashboard 2/         # Source files and assets for Dashboard 2
 ├── Dashboard 3/         # Source files and assets for Dashboard 3
 ├── Dashboard 4/         # Source files and assets for Dashboard 4
@@ -34,7 +34,7 @@ Use code with caution.
 
 ### ⚙️ Project Workflow & Lifecycle
 
-### 1. Data Retrieval & Preprocessing
+### 1. Data Preprocessing
 
 * **Raw Data:** Sourced healthcare metrics detailing operational parameters.
 * **Data Cleaning:** Handled missing values, eliminated duplicate rows, standardized date formats, and engineered necessary operational fields using Python scripts (data_cleaning/).
